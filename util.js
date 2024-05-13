@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://fcs-backend-kml0.onrender.com/'
